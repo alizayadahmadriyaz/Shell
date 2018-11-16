@@ -1,4 +1,5 @@
-# Shell 2
+# Shell 
+A shell using unix-like system calls that implements command execution, foreground and background processes , I/O redirection and pipes.
 
 ## File Structure
 ```
