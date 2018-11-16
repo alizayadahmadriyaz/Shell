@@ -1,0 +1,15 @@
+cd.c
+checkProc.c
+clock.c
+execute.c
+getstatus.c
+ls.c
+main.c
+Makefile
+myshell
+obj
+parseInput.c
+pinfo.c
+printPrompt.c
+strip.c
+tmpinfile.txt

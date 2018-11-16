@@ -1,0 +1,1 @@
+void printPrompt(char *curpath, char *home);

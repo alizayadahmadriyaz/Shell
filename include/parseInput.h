@@ -1,0 +1,1 @@
+void parseInput(char *tok, char arg[100][100], int* bg, int *iredir, char *ifile, int *oredir, char *ofile, int *append, int *ispipe);

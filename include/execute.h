@@ -1,0 +1,1 @@
+int execute(char *command, char *args[], int bg);

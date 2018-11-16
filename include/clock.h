@@ -1,0 +1,1 @@
+void clk(int interval, int times);
